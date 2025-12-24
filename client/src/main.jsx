@@ -13,8 +13,8 @@ ReactDOM.createRoot(document.getElementById("root")).render(
      domain="dev-m0c6t4vngjpajfst.us.auth0.com"
      clientId="YIRxUYcndwCzVFynxO5IvmDit9lyNmtt"
      authorizationParams={{
-      redirect_uri: "https://property-iota-eight.vercel.app",
-      audience: "http://localhost:8000",      // <--- MOVED INSIDE
+      redirect_uri: "https://property-phi-sandy.vercel.app",
+      audience: "https://property-gray.vercel.app",      // <--- MOVED INSIDE
       scope: "openid profile email"           // <--- MOVED INSIDE
      }}
      cacheLocation="localstorage" // Uncomment this to stay logged in on reload
