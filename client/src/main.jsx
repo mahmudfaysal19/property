@@ -13,7 +13,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
      domain="dev-m0c6t4vngjpajfst.us.auth0.com"
      clientId="YIRxUYcndwCzVFynxO5IvmDit9lyNmtt"
      authorizationParams={{
-      redirect_uri: "https://property-phi-sandy.vercel.app",
+      redirect_uri: "https://property-teal-five.vercel.app",
       audience: "https://property-gray.vercel.app",      // <--- MOVED INSIDE
       scope: "openid profile email"           // <--- MOVED INSIDE
      }}
