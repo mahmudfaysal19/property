@@ -14,7 +14,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
      clientId="YIRxUYcndwCzVFynxO5IvmDit9lyNmtt"
      authorizationParams={{
       redirect_uri: "https://property-teal-five.vercel.app",
-      audience: "https://property-gray.vercel.app",      // <--- MOVED INSIDE
+      audience: "http://localhost:8000",      // <--- MOVED INSIDE
       scope: "openid profile email"           // <--- MOVED INSIDE
      }}
      cacheLocation="localstorage" // Uncomment this to stay logged in on reload
