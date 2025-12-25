@@ -1,5 +1,5 @@
-import { Container, Modal, Stepper } from "@mantine/core"; 
-import React, { useState } from "react";
+import { Container, Modal, Stepper } from "@mantine/core";
+import React, { useState, useEffect } from "react"; // <--- 1. ADD useEffect HERE
 import AddLocation from "../AddLocation/AddLocation";
 import { useAuth0 } from "@auth0/auth0-react";
 import UploadImage from "../UploadImage/UploadImage";
@@ -23,8 +23,16 @@ const AddPropertyModal = ({ opened, setOpened }) => {
       parkings: 0,
       bathrooms: 0,
     },
-    userEmail: user?.email,
+    userEmail: user?.email, // This starts as undefined...
   });
+
+  // --- 2. THE FIX: Update email when User loads ---
+  useEffect(() => {
+    if (user?.email) {
+      setPropertyDetails((prev) => ({ ...prev, userEmail: user.email }));
+    }
+  }, [user]); // Runs whenever 'user' changes
+  // ------------------------------------------------
 
   const nextStep = () => {
     setActive((current) => (current < 4 ? current + 1 : current));

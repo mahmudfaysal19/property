@@ -111,6 +111,7 @@
     "createdAt": { "$date": "2023-04-14T10:43:18.186Z" },
     "updatedAt": { "$date": "2023-04-14T10:43:18.186Z" }
   },
+  
   {
     "_id": { "$oid": "64392e57dfd90fb29e464fc0" },
     "title": "Crimson Peak Chalet",
