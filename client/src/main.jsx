@@ -11,7 +11,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <Auth0Provider
      domain="dev-m0c6t4vngjpajfst.us.auth0.com"
-     clientId="FwuU99bg3GuTcAn1iwwndo4VQZIqa5XU"
+     clientId="QcMWZqYZ7E0SrMqvWPueyMfdOVNsqlfz"
      authorizationParams={{
       redirect_uri: "https://property-delta-five.vercel.app",
       audience: "http://localhost:8000",      // <--- MOVED INSIDE
