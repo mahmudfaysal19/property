@@ -1,4 +1,7 @@
-Features:
+# Live Link of Project:
+https://property-delta-five.vercel.app
+
+# Features:
 
 1. At Home Page, You can see the popular residencies we provide. You can book any property by clicking on them.
 2. You can see All the Properties by clicking on "Property" at the menu, top right corner of the homepage. 
@@ -13,7 +16,7 @@ Features:
    For now, the admin panel is public, anyone can add properties.
 
 
-Stack Used:
+# Stack Used:
 
 1. Mearn Stack which includes Mongodb, Express.js, React, Node.js.
 2. Auth0 for Seamless Authentication Flow for both client side and backend route using jwt.
