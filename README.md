@@ -18,7 +18,7 @@ https://property-delta-five.vercel.app
 
 # Stack Used:
 
-1. Mearn Stack which includes Mongodb, Express.js, React, Node.js.
+1. Mern Stack which includes Mongodb, Express.js, React, Node.js.
 2. Auth0 for Seamless Authentication Flow for both client side and backend route using jwt.
 3. Cloudinary for image uploading and storing.
 4. Prisma with Mongodb to enhace Schema robustness
