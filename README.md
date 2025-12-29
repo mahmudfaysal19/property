@@ -11,10 +11,14 @@ https://property-delta-five.vercel.app
 3. You can do login by clicking on "Log In" button at the top-right corner of the page.  
 4. If you want to find out your bookings or favourites, just click on your profile from login icon.
 
-6. Finally, the most Interesting part is, there is a dedicated admin panel wheren you can manually add properties, select countries,cities etc. and upload images.
-   What you need to do is just click on "Add Property" icon beside the login button. And you must login First before doing that.
+6. Finally, the most Interesting part is, there is a dedicated admin panel wheren you can manually add properties,
+   select countries,cities etc. and upload images.
+   What you need to do is just click on "Add Property" icon beside the login button.
+   And you must login First before doing that.
    For now, the admin panel is public, anyone can add properties.
 
+   The Data is stored in my Mongodb database collection, So, anyone uploading image ( adding Property ),
+   logging in, adding bookings or favourites will be shown in my database.
 
 # Stack Used:
 
