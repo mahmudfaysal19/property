@@ -2,7 +2,7 @@
 
 # 🏡 Full-Stack Residency & Property Management
 
-**A modern, end-to-end real estate web platform for property discovery, automated visit bookings, favorite tracking, and multi-step residency listing.**
+**A modern, end-to-end Property Management web platform for property discovery, automated visit bookings, favorite tracking, and multi-step residency listing.**
 
 [![Live Demo](https://img.shields.io/badge/Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://property-delta-five.vercel.app)
 [![React](https://img.shields.io/badge/Frontend-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
@@ -20,7 +20,7 @@
 
 ## 📌 Overview
 
-**ResidencyHub** is an enterprise-grade real estate residency management application designed to bridge property owners and prospective tenants/buyers. Built on a decoupled client-server architecture, it features identity verification via Auth0, geographic location tagging via Leaflet interactive maps, dynamic multi-attribute search filtering, and an automated 4-stage property listing wizard.
+**ResidencyHub** is a residency management application designed to bridge property owners and prospective tenants/buyers. Built on a decoupled client-server architecture, it features identity verification via Auth0, geographic location tagging via Leaflet interactive maps, dynamic multi-attribute search filtering, and an automated 4-stage property listing wizard.
 
 ---
 
