@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏡 ResidencyHub: An Integrated Property Management and Booking Solution
+# 🏡 Full-Stack Residency & Property Management
 
 **A modern, end-to-end real estate web platform for property discovery, automated visit bookings, favorite tracking, and multi-step residency listing.**
 
