@@ -37,7 +37,7 @@
 * Horizontal Swiper carousel navigation with automated boundary detection.
 
 <div align="center">
-  <img src="./docs/Properties" alt="Popular Residencies Showcase" width="850"/>
+  <img src="./docs/Properties.png" alt="Popular Residencies Showcase" width="850"/>
   <p><em>Figure 1: Dynamic Property Grid with pricing tier badges and favorite toggles.</em></p>
 </div>
 
