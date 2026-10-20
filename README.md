@@ -20,7 +20,7 @@
 
 ## 📌 Overview
 
-**Homyz** is an enterprise-grade real estate residency management application designed to bridge property owners and prospective tenants/buyers. Built on a decoupled client-server architecture, it features identity verification via Auth0, geographic location tagging via Leaflet interactive maps, dynamic multi-attribute search filtering, and an automated 4-stage property listing wizard.
+**ResidencyHub** is an enterprise-grade real estate residency management application designed to bridge property owners and prospective tenants/buyers. Built on a decoupled client-server architecture, it features identity verification via Auth0, geographic location tagging via Leaflet interactive maps, dynamic multi-attribute search filtering, and an automated 4-stage property listing wizard.
 
 ---
 
