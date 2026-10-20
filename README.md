@@ -54,7 +54,7 @@
 * Real-time cache invalidation using **React Query** (`useQuery` / `useMutation`) for instant UI synchronization without full-page reloads.
 
 <div align="center">
-  <img src="./screenshots/Booking: Favourites.jpg" alt="User Bookings and Favourites Menu" width="850"/>
+  <img src="./docs/Booking: Favourites.png" alt="User Bookings and Favourites Menu" width="850"/>
   <p><em>Figure 2: User profile dropdown with direct links to Bookings and Saved Favourites.</em></p>
 </div>
 
@@ -69,19 +69,19 @@ A guided 4-step progressive disclosure workflow designed to eliminate listing er
 * **Step 4 — Facility Specifications & Final Submission:** Set bedroom count, available parking bays, and bathroom quantities before saving directly into the database.
 
 <div align="center">
-  <img src="./screenshots/Address.jpg" alt="Step 1: Address and Map Location" width="800"/>
+  <img src="./docs/Address.png" alt="Step 1: Address and Map Location" width="800"/>
   <p><em>Step 1: Interactive Leaflet Map and Address Specification</em></p>
   <br/>
 
-  <img src="./screenshots/Upload.jpg" alt="Step 2: Asset Upload" width="800"/>
+  <img src="./docs/Upload.png" alt="Step 2: Asset Upload" width="800"/>
   <p><em>Step 2: High-Resolution Property Asset Upload and Verification</em></p>
   <br/>
 
-  <img src="./screenshots/Details.png" alt="Step 3: Property Details" width="800"/>
+  <img src="./docs/Details.png" alt="Step 3: Property Details" width="800"/>
   <p><em>Step 3: Title, Description, and Price Configuration</em></p>
   <br/>
 
-  <img src="./screenshots/Final .png" alt="Step 4: Facility Breakdown and Confirmation" width="800"/>
+  <img src="./docs/Final .png" alt="Step 4: Facility Breakdown and Confirmation" width="800"/>
   <p><em>Step 4: Bedroom, Bathroom, and Parking Quantification</em></p>
 </div>
 
